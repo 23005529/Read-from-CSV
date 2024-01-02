@@ -1,5 +1,9 @@
 # Read-from-CSV
+NAME : ALIYA SHEEMA
 
+REFERENCE NUMBER : 23005529
+
+DEPARTMENT : AIDS
 ## AIM:
 To write a python program for reading content from a CSV file.
 
@@ -18,7 +22,9 @@ Using len(def.axes[]) print the total no.of rows and columns with argument 0 for
 
 ## PROGRAM:
 #Program to read contents from a CSV file
+
 #Developed by: Aliya Sheema
+
 #RegisterNumber:23005529
 ```
 import pandas as pd
